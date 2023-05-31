@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning using Terraform to configure Azure. 
 - 📫 How to reach me: sjaak.laan@gmail.com
-- ⚡ Fun fact: I've written a best seller book on IT Infrastructure Architecture.
+- ⚡ Fun fact: I've written a best seller book on [IT Infrastructure Architecture][https://www.sjaaklaan.com/book].
